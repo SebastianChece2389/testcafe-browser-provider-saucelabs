@@ -1,6 +1,6 @@
 {
   "name": "testcafe-browser-provider-saucelabs-kraken",
-  "version": "1.8.0.0",
+  "version": "1.8.0.0-kraken",
   "description": "saucelabs TestCafe browser provider plugin for Kraken Project.",
   "repository": "https://github.com/SebastianChece2389/testcafe-browser-provider-saucelabs",
   "homepage": "https://github.com/SebastianChece2389/testcafe-browser-provider-saucelabs",
@@ -35,7 +35,7 @@
     "pify": "^2.3.0",
     "pinkie": "^2.0.4",
     "request": "^2.74.0",
-    "saucelabs-connector": "^0.3.0"
+    "saucelabs-connector": "github:SebastianChece2389/saucelabs-connector"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
