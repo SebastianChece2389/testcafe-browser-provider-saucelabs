@@ -1,5 +1,5 @@
 {
-  "name": "testcafe-browser-provider-saucelabs-kraken",
+  "name": "testcafe-browser-provider-saucelabs",
   "version": "1.8.0.0",
   "description": "saucelabs TestCafe browser provider plugin for Kraken Project.",
   "repository": "https://github.com/SebastianChece2389/testcafe-browser-provider-saucelabs",
